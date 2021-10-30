@@ -5,8 +5,7 @@ pipeline {
 			steps {
 				echo 'building the application'
 				//sh 'npm install'
-				//sh 'npm build'
-				
+				//sh 'npm build'			
 				
               }
         }
